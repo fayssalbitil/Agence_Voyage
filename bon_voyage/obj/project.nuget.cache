@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "FQuO5yDcNwWGj/ds23SwUhYidyFZ6yP3wVtEfYWvMqUFoZR/DSC622Iqe4irR2eE9RbJMOp22wWaI28GdDz+Zw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Desktop\\bon_voyage\\bon_voyage\\bon_voyage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.5\\guna.ui2.winforms.2.0.4.5.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\system.management\\6.0.0\\system.management.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
